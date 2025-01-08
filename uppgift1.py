@@ -1,4 +1,6 @@
 # Print Hello
 
 user_name = "Cameloasa"
-print("Hello World!" + user_name)
+greeting = "Hello"
+print("Hello"+ " " + user_name)
+print(greeting + " " + user_name)
