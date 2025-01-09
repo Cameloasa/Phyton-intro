@@ -11,15 +11,6 @@ Tips: använd operatorerna // och %. Heltalsdivision // dividerar och avrundar n
 70 % 60 == 10  (10 i rest)
 Be en AI förklara heltalsdivision och modulo i Python om du känner dig osäker!
 
-
-2 Skriv ett program som räknar ut längden på hypotenusan i en rätvinklig triangel. Användaren behöver skriva in längden på de två kortare sidorna.
-Tips 1: fråga en AI om formeln Pythagoras sats. Men var noga med att inte fråga efter kod som löser uppgiften!
-Tips 2: räkna ut roten med math.sqrt().
-
-Som testdata kan du använda triangeln med sidorna 3, 4 och 5:
-
-
-
 3a Skriv ett program som talar om dagens datum.
 Resurs: Hantera datum i Python
 
@@ -36,4 +27,8 @@ De som ger feedback:
 Frågar om det är något man inte förstår
 Ger förslag på hur koden kan förbättras
 
+
 '''
+
+
+
