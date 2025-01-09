@@ -1,18 +1,28 @@
 # Använda variabler och datatyper
 # 1a Använd input för att be användaren om ett heltal. Spara värdet i en variabel. Omvandla variabelns värde till ett heltal, och skriv ut det för att testa om du har gjort rätt.
 # Kodexempel med input:
-user_input1 = int(input("Välj ett heltal mellan (1-10): "))
+user_input1 = int(input("Välj ett heltal: "))
 
 print(f"Du valde talet {user_input1}")
 
 # 1b Fråga användaren efter ett annat heltal. Skriv ut summan av talen, alltså tal1 + tal2.
 # Testa genom att hitta på två tal och räkna ut summan i huvudet. Kontrollera om programmet räknar rätt.
-user_input2 = int(input("Välj ett heltal mellan (11-20): "))
+user_input2 = int(input("Välj ett annat heltal: "))
 print(f"Du valde talet {user_input2}")
 
-summan = user_input1 + user_input2
+addition = user_input1 + user_input2
+subtraktion = user_input1 - user_input2
+multiplikation = user_input1 * user_input2
+division = user_input1 / user_input2
 
-print(f"Summan av dina heltal du hade valt är: {summan}")
+
+print(f"Summan av talen du hade valt är: {addition}")
+print("***********")
+print(f"Differensen av talen du hade valt är: {subtraktion}")
+print("***********")
+print(f"Produkt av talen du hade valt är: {multiplikation}")
+print("***********")
+print(f"Kvoten av talen du hade valt är: {division}")
 print("***********")
 
 # 2a Nu är det dags att köpa vinterkläder. Du ser en fin jacka som kostar 2000 kronor. Jackan är på rea, 50%. Skriv ett program som räknar ut hur mycket du behöver betala.
