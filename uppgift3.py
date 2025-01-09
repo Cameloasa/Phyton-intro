@@ -22,7 +22,7 @@ print(f"Differensen av talen du hade valt är: {subtraktion}")
 print("***********")
 print(f"Produkt av talen du hade valt är: {multiplikation}")
 print("***********")
-print(f"Kvoten av talen du hade valt är: {division}")
+print(f"Kvoten av talen du hade valt är: {division:.2f}")
 print("***********")
 
 # 2a Nu är det dags att köpa vinterkläder. Du ser en fin jacka som kostar 2000 kronor. Jackan är på rea, 50%. Skriv ett program som räknar ut hur mycket du behöver betala.
