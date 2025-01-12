@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffacb34b-7fd6-4f04-81fa-bf8ccd3e8d45" name="Changes" comment="trigonometri Pythagoras sats">
-      <change afterPath="$PROJECT_DIR$/uppgift4speed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uppgift6time.py" afterDir="false" />
+    <list default="true" id="ffacb34b-7fd6-4f04-81fa-bf8ccd3e8d45" name="Changes" comment="multiply">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uppgift3.py" beforeDir="false" afterPath="$PROJECT_DIR$/uppgift3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uppgift4.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +56,8 @@
     "Python.uppgift6time.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Lexicon/Pyton/PhytonCourse"
   }
 }]]></component>
   <component name="RunManager">
@@ -151,7 +148,31 @@
       <option name="project" value="LOCAL" />
       <updated>1736419237003</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Hastighet och distans">
+      <option name="closed" value="true" />
+      <created>1736425484462</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1736425484462</updated>
+    </task>
+    <task id="LOCAL-00008" summary="tid och datum">
+      <option name="closed" value="true" />
+      <created>1736425510985</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1736425510985</updated>
+    </task>
+    <task id="LOCAL-00009" summary="multiply">
+      <option name="closed" value="true" />
+      <created>1736425555168</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1736425555168</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,7 +193,10 @@
     <MESSAGE value="Math" />
     <MESSAGE value="Addition, subtraktion multiplikation &amp; division" />
     <MESSAGE value="trigonometri Pythagoras sats" />
-    <option name="LAST_COMMIT_MESSAGE" value="trigonometri Pythagoras sats" />
+    <MESSAGE value="Hastighet och distans" />
+    <MESSAGE value="tid och datum" />
+    <MESSAGE value="multiply" />
+    <option name="LAST_COMMIT_MESSAGE" value="multiply" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

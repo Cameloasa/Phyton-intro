@@ -38,6 +38,3 @@ formatted_time = f"{timmar:02}h:{minuter:02}m:{sekunder:02}s"
 
 print(f"Det tar {formatted_time} for att resa {user_input_distans} km med hastigheten på {user_input_hastighet} km/h. ")
 
-
-
-'''
