@@ -1,10 +1,10 @@
 #Diskutera i grupp
 #Rätta eventuella fel. Vad gör koden?
-biljett_pris = 100  # biljettpris
-pengar_på_fickan= 200  # pengar på fickan
-print("Det blir " + str(pengar_på_fickan - biljett_pris) + " kronor över.") # omvandla variables to concatenate str()
-hälften = (200 - 100) / 2 # () aritmetik
-print("Hälften är: " + str(hälften))
+ticket_price = 100  # biljettpris
+money_on_hand= 200  # pengar på fickan
+print("Det blir " + str(ticket_price - ticket_price) + " kronor över.") # omvandla variables to concatenate str()
+half_of_money_left = (200 - 100) / 2 # () aritmetik
+print("Hälften är: " + str(half_of_money_left))
 
 #Kom på bättre namn, i stället för x, y och z.
 
