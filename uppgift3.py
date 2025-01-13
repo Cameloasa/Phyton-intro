@@ -29,9 +29,9 @@ print("***********")
 # Tips: räkna ut rabatten med formeln: slut_pris = pris * rea_procent / 100.
 
 pris = 2000 # Jackans ursprungspris
-rea_procent= 50 # Rea i procent
+rea_procent= 40 # Rea i procent
 
-slut_pris = pris * rea_procent/100 # Beräkning av slutpris
+slut_pris = pris * (100 - rea_procent)/100 # Beräkning av slutpris
 
 print(f"Din jacka kostar {pris:.2f} kr, och med en rea på {rea_procent}% behöver du betala {slut_pris:.2f} kr")
 print("***********")
@@ -46,6 +46,7 @@ rea_procent = float(input("Ange rea-procent (t.ex. 50 för 50%): "))
 
 # Beräkning av slutpris
 rabatt = pris * rea_procent / 100
+
 slut_pris = pris - rabatt
 
 # Utskrift av resultat
