@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffacb34b-7fd6-4f04-81fa-bf8ccd3e8d45" name="Changes" comment="strings methods scrimba" />
+    <list default="true" id="ffacb34b-7fd6-4f04-81fa-bf8ccd3e8d45" name="Changes" comment="uppgift 3 modifiering av formulas">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userinput.py" beforeDir="false" afterPath="$PROJECT_DIR$/userinput.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,10 +56,12 @@
     "Python.uppgift5.executor": "Run",
     "Python.uppgift6.executor": "Run",
     "Python.uppgift6time.executor": "Run",
+    "Python.userinput.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/TestAutomatisering/ProjectsPyCharm/pythonProjectBroCode"
+    "last_opened_file_path": "C:/TestAutomatisering/ProjectsPyCharm/pythonProjectBroCode",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RunManager">
@@ -187,7 +192,47 @@
       <option name="project" value="LOCAL" />
       <updated>1736770143012</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Changes in naming some variables from Swedish till English">
+      <option name="closed" value="true" />
+      <created>1736772682102</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1736772682102</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Changes in naming some variables from Swedish till English">
+      <option name="closed" value="true" />
+      <created>1736772734161</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1736772734161</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Changes in naming some variables from Swedish till English">
+      <option name="closed" value="true" />
+      <created>1736772869896</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1736772869896</updated>
+    </task>
+    <task id="LOCAL-00015" summary="veckouppgift1 lagt till projektet">
+      <option name="closed" value="true" />
+      <created>1736774841866</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1736774841866</updated>
+    </task>
+    <task id="LOCAL-00016" summary="uppgift 3 modifiering av formulas">
+      <option name="closed" value="true" />
+      <created>1736775905898</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1736775905898</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,7 +258,10 @@
     <MESSAGE value="multiply" />
     <MESSAGE value="user input" />
     <MESSAGE value="strings methods scrimba" />
-    <option name="LAST_COMMIT_MESSAGE" value="strings methods scrimba" />
+    <MESSAGE value="Changes in naming some variables from Swedish till English" />
+    <MESSAGE value="veckouppgift1 lagt till projektet" />
+    <MESSAGE value="uppgift 3 modifiering av formulas" />
+    <option name="LAST_COMMIT_MESSAGE" value="uppgift 3 modifiering av formulas" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
